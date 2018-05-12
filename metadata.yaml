@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6260
     wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25666#The-Boy-Tar
 gutenberg_issued: '2008-06-01'
 gutenberg_type: Text
 identifiers:
