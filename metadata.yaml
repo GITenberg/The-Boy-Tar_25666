@@ -1,0 +1,37 @@
+_repo: The-Boy-Tar_25666
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Read, Edward
+    gutenberg_agent_id: '31495'
+    url: http://www.gutenberg.org/2009/agents/31495
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2008-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Sea stories'
+title: The Boy Tar
+url: http://www.gutenberg.org/ebooks/25666
